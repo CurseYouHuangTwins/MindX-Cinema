@@ -1,0 +1,16 @@
+.login-card {
+    width: 24rem;
+    padding: 64px 64px 0;
+    min-height: 500px;
+    max-height: 500px;
+}
+img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    margin-top: -48px;
+    margin-bottom: 160px;
+}
+.body-login {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/6e4b7575-5e77-4cbc-b380-6b57b4cb2652/web/VN-en-20261012-TRIFECTA-perspective_9231e8bd-eb36-4cd4-b07f-57ce35085e89_large.jpg');
+}s
